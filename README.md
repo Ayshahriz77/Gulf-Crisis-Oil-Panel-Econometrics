@@ -6,7 +6,7 @@ A panel-data econometrics project assessing the macroeconomic (inflationary) imp
 **Authors:** Menna Sbai, Malek Omri, Aicha Hriz, Rihem Abdelmoumen, Yomna Brahmi
 **Supervisor:** Prof. Dr. Naceuf Khraief
 **Institution:** Tunis Business School, University of Tunis
-**Date:** 2026
+**Date:** May,2026
 
 ---
 
