@@ -12,7 +12,7 @@ A panel-data econometrics project assessing the macroeconomic (inflationary) imp
 
 ## 📌 Project Overview
 
-This project examines whether a hypothetical geopolitical oil-price shock — the "2026 Gulf Crisis," calibrated to historical analogues, with Brent crude spiking above $140/barrel, generated a statistically significant increase in consumer price inflation across a panel of countries, and how that effect differs between oil importers and exporters.
+This project examines whether a hypothetical geopolitical oil-price shock, the "2026 Gulf Crisis," calibrated to historical analogues, with Brent crude spiking above $140/barrel, generated a statistically significant increase in consumer price inflation across a panel of countries, and how that effect differs between oil importers and exporters.
 
 **Research question:** Did the 2026 Gulf Crisis generate a statistically significant and economically meaningful increase in consumer price inflation across a panel of countries, and how does this effect vary by oil trade position?
 
