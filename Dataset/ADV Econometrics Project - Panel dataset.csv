@@ -1,0 +1,281 @@
+country,date,cpi,ipi,brent,neer,policy_rate,vix,oil_balance,group
+Eurozone,2023-01,"129,10","99,60","82,20","100,60","2,00","20,00",Importer,Advanced_Importer
+Eurozone,2023-02,"129,80","100,30","82,60","101,30","2,50","20,70",Importer,Advanced_Importer
+Eurozone,2023-03,"130,40","100,80","78,30","101,80","3,00","19,10",Importer,Advanced_Importer
+Eurozone,2023-04,"130,90","100,20","84,40","102,40","3,00","17,00",Importer,Advanced_Importer
+Eurozone,2023-05,"130,80","99,40","76,10","102,60","3,25","17,90",Importer,Advanced_Importer
+Eurozone,2023-06,"131,00","98,60","75,60","103,10","3,50","14,00",Importer,Advanced_Importer
+Eurozone,2023-07,"131,50","98,90","81,10","103,00","3,75","13,70",Importer,Advanced_Importer
+Eurozone,2023-08,"132,10","98,20","85,20","102,40","4,00","15,80",Importer,Advanced_Importer
+Eurozone,2023-09,"132,00","98,00","93,40","101,70","4,00","17,50",Importer,Advanced_Importer
+Eurozone,2023-10,"132,20","97,50","91,50","101,30","4,00","19,40",Importer,Advanced_Importer
+Eurozone,2023-11,"131,70","97,20","82,50","101,70","4,00","14,60",Importer,Advanced_Importer
+Eurozone,2023-12,"131,60","96,80","77,60","102,50","4,00","13,00",Importer,Advanced_Importer
+Eurozone,2024-01,"131,80","97,00","79,80","102,10","4,00","13,30",Importer,Advanced_Importer
+Eurozone,2024-02,"132,10","97,40","82,90","102,00","4,00","14,20",Importer,Advanced_Importer
+Eurozone,2024-03,"132,30","97,60","86,50","102,30","4,00","13,70",Importer,Advanced_Importer
+Eurozone,2024-04,"132,80","97,00","89,60","101,40","4,00","15,90",Importer,Advanced_Importer
+Eurozone,2024-05,"133,10","97,80","83,90","101,70","4,00","13,50",Importer,Advanced_Importer
+Eurozone,2024-06,"133,10","97,30","85,10","101,90","3,75","12,40",Importer,Advanced_Importer
+Eurozone,2024-07,"133,40","96,80","85,10","102,20","3,75","16,40",Importer,Advanced_Importer
+Eurozone,2024-08,"133,60","96,20","80,00","102,70","3,75","15,00",Importer,Advanced_Importer
+Eurozone,2024-09,"133,50","96,00","73,50","103,30","3,50","16,90",Importer,Advanced_Importer
+Eurozone,2024-10,"133,90","96,40","76,10","102,50","3,25","20,50",Importer,Advanced_Importer
+Eurozone,2024-11,"134,20","96,10","73,90","101,40","3,25","15,80",Importer,Advanced_Importer
+Eurozone,2024-12,"134,50","95,80","74,50","100,90","3,00","18,00",Importer,Advanced_Importer
+Eurozone,2025-01,"135,00","96,00","79,90","101,20","2,75","17,40",Importer,Advanced_Importer
+Eurozone,2025-02,"135,30","96,50","75,90","101,50","2,75","19,70",Importer,Advanced_Importer
+Eurozone,2025-03,"135,50","96,30","73,20","102,10","2,50","22,00",Importer,Advanced_Importer
+Eurozone,2025-04,"135,40","96,10","66,00","103,00","2,25","29,70",Importer,Advanced_Importer
+Eurozone,2025-05,"135,60","96,40","64,80","103,80","2,25","20,30",Importer,Advanced_Importer
+Eurozone,2025-06,"135,70","96,60","68,50","104,00","2,00","17,50",Importer,Advanced_Importer
+Eurozone,2025-07,"135,90","96,30","74,10","104,20","2,00","16,80",Importer,Advanced_Importer
+Eurozone,2025-08,"136,10","96,50","76,40","104,50","1,75","15,90",Importer,Advanced_Importer
+Eurozone,2025-09,"136,00","96,20","72,30","104,80","1,75","18,10",Importer,Advanced_Importer
+Eurozone,2025-10,"136,20","96,40","70,80","104,60","1,50","20,40",Importer,Advanced_Importer
+Eurozone,2025-11,"136,40","96,60","69,50","104,90","1,50","16,20",Importer,Advanced_Importer
+Eurozone,2025-12,"136,60","96,80","71,20","105,10","1,25","15,00",Importer,Advanced_Importer
+Eurozone,2026-01,"137,00","96,90","74,80","105,40","1,25","16,00",Importer,Advanced_Importer
+Eurozone,2026-02,"137,20","97,10","73,50","105,70","1,00","19,00",Importer,Advanced_Importer
+Eurozone,2026-03,"137,30","97,00","68,20","106,10","1,00","23,50",Importer,Advanced_Importer
+Eurozone,2026-04,"137,10","96,80","65,40","106,40","1,00","26,80",Importer,Advanced_Importer
+United States,2023-01-01,"126,77","102,24","82,5","99,51","4,33","18,97",exporter,Advanced_Exporter
+United States,2023-02-01,"127,2","102,38","82,58","99,92","4,57","20,64",exporter,Advanced_Exporter
+United States,2023-03-01,"127,27","102,77","78,43","100,29","4,65","20,64",exporter,Advanced_Exporter
+United States,2023-04-01,"127,78",103,"84,64","99,04","4,83","16,96",exporter,Advanced_Exporter
+United States,2023-05-01,"127,97","102,67","75,47","99,36","5,06","16,22",exporter,Advanced_Exporter
+United States,2023-06-01,"128,3","101,85","74,84","99,08","5,08","13,59",exporter,Advanced_Exporter
+United States,2023-07-01,"128,52","102,65","80,11","98,05","5,12","13,61",exporter,Advanced_Exporter
+United States,2023-08-01,"129,16","102,58","86,15","99,55","5,33","15,92",exporter,Advanced_Exporter
+United States,2023-09-01,"129,68","102,77","93,72","101,03","5,33","17,52",exporter,Advanced_Exporter
+United States,2023-10-01,"129,8","102,21","90,6","102,57","5,33","19,74",exporter,Advanced_Exporter
+United States,2023-11-01,"129,99","102,61","82,94","100,68","5,33","14,97",exporter,Advanced_Exporter
+United States,2023-12-01,"130,26","102,34","77,63","99,53","5,33","12,93",exporter,Advanced_Exporter
+United States,2024-01-01,"130,71","100,94","80,12","99,86","5,33","13,31",exporter,Advanced_Exporter
+United States,2024-02-01,"131,22","102,02","83,48","100,55","5,33","13,75",exporter,Advanced_Exporter
+United States,2024-03-01,"131,68","102,19","85,41","100,21","5,33","13,44",exporter,Advanced_Exporter
+United States,2024-04-01,"132,06","101,98","89,94","101,45","5,33","15,93",exporter,Advanced_Exporter
+United States,2024-05-01,"132,12","102,61","81,75","101,21","5,33","14,18",exporter,Advanced_Exporter
+United States,2024-06-01,"132,11","102,64","82,25","102,75","5,33","12,44",exporter,Advanced_Exporter
+United States,2024-07-01,"132,3","101,7","85,15","102,48","5,33","16,36",exporter,Advanced_Exporter
+United States,2024-08-01,"132,54","102,17","80,36","101,84","5,33","23,23",exporter,Advanced_Exporter
+United States,2024-09-01,"132,84","101,53","74,02","101,23","5,13","16,73",exporter,Advanced_Exporter
+United States,2024-10-01,"133,14","101,19","75,63","102,65","4,83","19,85",exporter,Advanced_Exporter
+United States,2024-11-01,"133,51","101,01","74,35","104,91","4,64","19,16",exporter,Advanced_Exporter
+United States,2024-12-01,134,"102,06","73,86","105,96","4,48","18,46",exporter,Advanced_Exporter
+United States,2025-01-01,"134,63","101,8","79,27","107,01","4,33","15,39",exporter,Advanced_Exporter
+United States,2025-02-01,"134,92","102,85","75,44","106,21","4,33","18,84",exporter,Advanced_Exporter
+United States,2025-03-01,"134,85","102,79","72,73","104,85","4,33","22,29",exporter,Advanced_Exporter
+United States,2025-04-01,"135,15","102,88","68,13","103,11","4,33","22,38",exporter,Advanced_Exporter
+United States,2025-05-01,"135,47","102,71","64,45","101,61","4,33","22,48",exporter,Advanced_Exporter
+United States,2025-06-01,"135,8","103,23","71,44","100,16","4,33","22,29",exporter,Advanced_Exporter
+United States,2025-07-01,"136,13","103,66","71,04","99,76","4,33","22,1",exporter,Advanced_Exporter
+United States,2025-08-01,"136,45","103,38","67,87","100,15","4,33","21,91",exporter,Advanced_Exporter
+United States,2025-09-01,"136,78","103,43","67,99","99,69","4,22","21,72",exporter,Advanced_Exporter
+United States,2025-10-01,"137,11","102,97","64,54","100,3","4,09","21,53",exporter,Advanced_Exporter
+United States,2025-11-01,"137,43","102,83","63,8","100,85","3,88","21,34",exporter,Advanced_Exporter
+United States,2025-12-01,"137,76","103,37","62,54","99,82","3,72","21,14",exporter,Advanced_Exporter
+United States,2026-01-01,"138,09","103,35","66,6","99,03","3,64","20,95",exporter,Advanced_Exporter
+United States,2026-02-01,"138,41","104,11","70,89","97,93","3,64","20,76",exporter,Advanced_Exporter
+United States,2026-03-01,"138,74","103,55","103,13","99,6","3,64","20,57",exporter,Advanced_Exporter
+United States,2026-04-01,"139,07","103,67","124,12","99,09","3,55","20,38",exporter,Advanced_Exporter
+United States,2026-05-01,"139,39","103,78","136,18","98,74","3,46","20,19",exporter,Advanced_Exporter
+United States,2026-06-01,"139,72","103,9","148,25","98,39","3,37",20,exporter,Advanced_Exporter
+Canada,2023-01-01,"121,6","107,2","82,5","100,48","4,3","18,97",exporter,Advanced_Exporter
+Canada,2023-02-01,"122,07","107,7","82,58","100,55","4,51","20,64",exporter,Advanced_Exporter
+Canada,2023-03-01,"122,7","108,15","78,43","98,97","4,5","20,64",exporter,Advanced_Exporter
+Canada,2023-04-01,"123,57","107,98","84,64","99,79","4,5","16,96",exporter,Advanced_Exporter
+Canada,2023-05-01,"124,05","107,77","75,47","99,78","4,5","16,22",exporter,Advanced_Exporter
+Canada,2023-06-01,"124,2","107,93","74,84","101,6","4,69","13,59",exporter,Advanced_Exporter
+Canada,2023-07-01,"124,91","107,45","80,11","101,53","4,91","13,61",exporter,Advanced_Exporter
+Canada,2023-08-01,"125,39","107,12","86,15","100,26","5,01","15,92",exporter,Advanced_Exporter
+Canada,2023-09-01,"125,23","106,69","93,72","100,7","5,01","17,52",exporter,Advanced_Exporter
+Canada,2023-10-01,"125,31","106,73","90,6","100,15","5,03","19,74",exporter,Advanced_Exporter
+Canada,2023-11-01,"125,47","108,28","82,94","99,04","5,03","14,97",exporter,Advanced_Exporter
+Canada,2023-12-01,"125,07","107,83","77,63","100,46","5,03","12,93",exporter,Advanced_Exporter
+Canada,2024-01-01,"125,07","107,56","80,12","100,61","5,05","13,31",exporter,Advanced_Exporter
+Canada,2024-02-01,"125,47","107,71","83,48","100,45","5,03","13,75",exporter,Advanced_Exporter
+Canada,2024-03-01,"126,26","107,92","85,41","99,9","5,01","13,44",exporter,Advanced_Exporter
+Canada,2024-04-01,"126,89","108,13","89,94","99,56","5,01","15,93",exporter,Advanced_Exporter
+Canada,2024-05-01,"127,6","108,33","81,75","99,47","5,01","14,18",exporter,Advanced_Exporter
+Canada,2024-06-01,"127,52","108,54","82,25","100,16","4,82","12,44",exporter,Advanced_Exporter
+Canada,2024-07-01,"128,07","108,74","85,15",100,"4,73","16,36",exporter,Advanced_Exporter
+Canada,2024-08-01,"127,84","108,95","80,36","100,04","4,53","23,23",exporter,Advanced_Exporter
+Canada,2024-09-01,"127,28","109,15","74,02","100,54","4,32","16,73",exporter,Advanced_Exporter
+Canada,2024-10-01,"127,84","109,36","75,63","99,7","4,17","19,85",exporter,Advanced_Exporter
+Canada,2024-11-01,"127,84","109,57","74,35","99,36","3,79","19,16",exporter,Advanced_Exporter
+Canada,2024-12-01,"127,36","109,77","73,86","98,05","3,5","18,46",exporter,Advanced_Exporter
+Canada,2025-01-01,"127,44","109,98","79,27","97,51","3,27","15,39",exporter,Advanced_Exporter
+Canada,2025-02-01,"128,79","110,18","75,44","97,67","3,01","18,84",exporter,Advanced_Exporter
+Canada,2025-03-01,"129,18","110,39","72,73","96,45","2,86","22,29",exporter,Advanced_Exporter
+Canada,2025-04-01,"129,45","110,59","68,13","98,23","2,76","22,38",exporter,Advanced_Exporter
+Canada,2025-05-01,"129,72","110,8","64,45","98,39","2,75","22,48",exporter,Advanced_Exporter
+Canada,2025-06-01,"129,99","111,01","71,44","99,01","2,75","22,29",exporter,Advanced_Exporter
+Canada,2025-07-01,"130,26","111,21","71,04","98,65","2,75","22,1",exporter,Advanced_Exporter
+Canada,2025-08-01,"130,52","111,42","67,87","97,9","2,76","21,91",exporter,Advanced_Exporter
+Canada,2025-09-01,"130,79","111,62","67,99","97,31","2,7","21,72",exporter,Advanced_Exporter
+Canada,2025-10-01,"131,06","111,83","64,54","96,48","2,51","21,53",exporter,Advanced_Exporter
+Canada,2025-11-01,"131,33","112,03","63,8","96,29","2,26","21,34",exporter,Advanced_Exporter
+Canada,2025-12-01,"131,6","112,24","62,54","97,59","2,27","21,14",exporter,Advanced_Exporter
+Canada,2026-01-01,"131,87","112,45","66,6","97,26","2,26","20,95",exporter,Advanced_Exporter
+Canada,2026-02-01,"132,14","112,65","70,89","97,52","2,27","20,76",exporter,Advanced_Exporter
+Canada,2026-03-01,"132,4","112,86","103,13","97,94","2,28","20,57",exporter,Advanced_Exporter
+Canada,2026-04-01,"132,67","113,06","124,12","98,23","2,29","20,38",exporter,Advanced_Exporter
+Canada,2026-05-01,"132,94","113,27","136,18","98,52","2,29","20,19",exporter,Advanced_Exporter
+Canada,2026-06-01,"133,21","113,48","148,25","98,82","2,3",20,exporter,Advanced_Exporter
+Saudi Arabia,2023-01,99.1993146234796,106.8,82.5,104.08,5.5,20.17,exporter,Emerging_Exporter
+Saudi Arabia,2023-02,99.12634041502096,103.0,82.58,104.69,5.75,20.12,exporter,Emerging_Exporter
+Saudi Arabia,2023-03,99.19019284742228,100.5,78.43,105.15,5.75,21.64,exporter,Emerging_Exporter
+Saudi Arabia,2023-04,99.5733074418302,97.5,84.64,104.39,5.75,17.82,exporter,Emerging_Exporter
+Saudi Arabia,2023-05,99.76486473903417,94.5,75.47,105.16,6.0,17.64,exporter,Emerging_Exporter
+Saudi Arabia,2023-06,99.95642203623812,94.2,74.84,106.24,6.0,14.0,exporter,Emerging_Exporter
+Saudi Arabia,2023-07,100.0476397968114,94.5,80.11,105.8,6.0,13.93,exporter,Emerging_Exporter
+Saudi Arabia,2023-08,100.0750051249834,96.2,86.15,106.94,6.0,15.85,exporter,Emerging_Exporter
+Saudi Arabia,2023-09,100.0841269010408,96.0,93.72,108.08,6.0,15.17,exporter,Emerging_Exporter
+Saudi Arabia,2023-10,100.2118317658434,98.0,90.6,108.77,6.0,18.89,exporter,Emerging_Exporter
+Saudi Arabia,2023-11,100.39426728699,98.5,82.94,107.46,6.0,14.02,exporter,Emerging_Exporter
+Saudi Arabia,2023-12,100.476363271506,98.5,77.63,106.42,6.0,12.72,exporter,Emerging_Exporter
+Saudi Arabia,2024-01,100.7408947771686,107.33,80.12,106.75,6.0,13.39,exporter,Emerging_Exporter
+Saudi Arabia,2024-02,100.9233302983153,104.24,83.48,107.4,6.0,13.98,exporter,Emerging_Exporter
+Saudi Arabia,2024-03,100.8229907616846,102.31,85.41,107.36,6.0,13.79,exporter,Emerging_Exporter
+Saudi Arabia,2024-04,101.1513746997485,98.96,89.94,108.37,6.0,16.14,exporter,Emerging_Exporter
+Saudi Arabia,2024-05,101.3155666687805,94.03,81.75,108.14,6.0,13.06,exporter,Emerging_Exporter
+Saudi Arabia,2024-06,101.4523933096405,94.48,82.25,108.44,6.0,12.67,exporter,Emerging_Exporter
+Saudi Arabia,2024-07,101.5800981744431,96.01,85.15,108.27,6.0,14.37,exporter,Emerging_Exporter
+Saudi Arabia,2024-08,101.6530723829018,97.16,80.36,106.73,6.0,19.31,exporter,Emerging_Exporter
+Saudi Arabia,2024-09,101.7807772477044,97.44,74.02,105.79,5.5,17.66,exporter,Emerging_Exporter
+Saudi Arabia,2024-10,102.100039409711,99.96,75.63,106.81,5.5,19.96,exporter,Emerging_Exporter
+Saudi Arabia,2024-11,102.3828144674883,101.85,74.35,108.54,5.25,16.02,exporter,Emerging_Exporter
+Saudi Arabia,2024-12,102.4193015717176,101.45,73.86,109.5,5.0,15.87,exporter,Emerging_Exporter
+Saudi Arabia,2025-01,102.7294419576669,112.7,79.27,110.24,5.0,16.76,exporter,Emerging_Exporter
+Saudi Arabia,2025-02,102.9027557027562,111.02,75.44,109.66,5.0,16.97,exporter,Emerging_Exporter
+Saudi Arabia,2025-03,103.1672872084188,104.36,72.73,108.36,5.0,21.84,exporter,Emerging_Exporter
+Saudi Arabia,2025-04,103.4956711464827,102.92,68.13,107.16,5.0,31.97,exporter,Emerging_Exporter
+Saudi Arabia,2025-05,103.5686453549414,95.44,64.45,106.26,5.0,20.46,exporter,Emerging_Exporter
+Saudi Arabia,2025-06,103.751080876088,97.31,71.44,105.44,5.0,18.4,exporter,Emerging_Exporter
+Saudi Arabia,2025-07,103.751080876088,99.85,71.04,105.18,5.0,16.38,exporter,Emerging_Exporter
+Saudi Arabia,2025-08,103.894937967031,100.56,67.87,105.51,5.0,15.75,exporter,Emerging_Exporter
+Saudi Arabia,2025-09,103.83056832914,101.82,67.99,105.12,4.75,15.79,exporter,Emerging_Exporter
+Saudi Arabia,2025-10,104.12271419106,104.96,64.54,105.63,4.5,18.09,exporter,Emerging_Exporter
+Saudi Arabia,2025-11,104.196719734602,112.44,63.8,106.05,4.5,19.77,exporter,Emerging_Exporter
+Saudi Arabia,2025-12,104.304135169088,109.57,62.54,105.4,4.25,15.55,exporter,Emerging_Exporter
+Saudi Arabia,2026-01,104.466865674647,,66.6,105.0,4.25,16.18,exporter,Emerging_Exporter
+Saudi Arabia,2026-02,104.503923693459,,70.89,104.36,4.25,19.21,exporter,Emerging_Exporter
+Saudi Arabia,2026-03,104.808338622761,,103.13,,4.25,25.6,exporter,Emerging_Exporter
+Saudi Arabia,2026-04,,,118.43,,4.25,,exporter,Emerging_Exporter
+Russia,2023-01,233.9,120.7,82.5,111.29,7.5,20.17,exporter,Emerging_Exporter
+Russia,2023-02,234.9,120.43,82.58,105.96,7.5,20.12,exporter,Emerging_Exporter
+Russia,2023-03,235.8,119.46,78.43,101.81,7.5,21.64,exporter,Emerging_Exporter
+Russia,2023-04,236.7,124.66,84.64,94.61,7.5,17.82,exporter,Emerging_Exporter
+Russia,2023-05,237.4,127.98,75.47,97.63,7.5,17.64,exporter,Emerging_Exporter
+Russia,2023-06,238.3,128.4,74.84,94.17,7.5,14.0,exporter,Emerging_Exporter
+Russia,2023-07,239.8,127.29,80.11,86.28,8.5,13.93,exporter,Emerging_Exporter
+Russia,2023-08,240.5,127.94,86.15,83.02,12.0,15.85,exporter,Emerging_Exporter
+Russia,2023-09,242.6,128.83,93.72,83.1,13.0,15.17,exporter,Emerging_Exporter
+Russia,2023-10,244.6,129.12,90.6,83.32,15.0,18.89,exporter,Emerging_Exporter
+Russia,2023-11,247.3,128.47,82.94,88.03,15.0,14.02,exporter,Emerging_Exporter
+Russia,2023-12,249.1,127.42,77.63,86.63,16.0,12.72,exporter,Emerging_Exporter
+Russia,2024-01,251.3,126.25,80.12,89.12,16.0,13.39,exporter,Emerging_Exporter
+Russia,2024-02,253.0,130.67,83.48,87.05,16.0,13.98,exporter,Emerging_Exporter
+Russia,2024-03,254.0,126.15,85.41,86.8,16.0,13.79,exporter,Emerging_Exporter
+Russia,2024-04,255.2,129.52,89.94,86.62,16.0,16.14,exporter,Emerging_Exporter
+Russia,2024-05,257.1,130.16,81.75,88.52,16.0,13.06,exporter,Emerging_Exporter
+Russia,2024-06,258.8,130.84,82.25,91.76,16.0,12.67,exporter,Emerging_Exporter
+Russia,2024-07,261.1,131.36,85.15,91.83,18.0,14.37,exporter,Emerging_Exporter
+Russia,2024-08,262.4,131.39,80.36,88.67,18.0,19.31,exporter,Emerging_Exporter
+Russia,2024-09,263.5,132.95,74.02,85.81,19.0,17.66,exporter,Emerging_Exporter
+Russia,2024-10,265.4,134.93,75.63,82.44,21.0,19.96,exporter,Emerging_Exporter
+Russia,2024-11,269.3,136.56,74.35,80.36,21.0,16.02,exporter,Emerging_Exporter
+Russia,2024-12,272.8,138.12,73.86,80.04,21.0,15.87,exporter,Emerging_Exporter
+Russia,2025-01,276.2,128.9,79.27,82.17,21.0,16.76,exporter,Emerging_Exporter
+Russia,2025-02,278.6,131.58,75.44,88.41,21.0,16.97,exporter,Emerging_Exporter
+Russia,2025-03,280.3,128.17,72.73,93.71,21.0,21.84,exporter,Emerging_Exporter
+Russia,2025-04,281.4,130.94,68.13,95.16,21.0,31.97,exporter,Emerging_Exporter
+Russia,2025-05,282.5,132.11,64.45,98.08,21.0,20.46,exporter,Emerging_Exporter
+Russia,2025-06,283.1,133.33,71.44,98.87,20.0,18.4,exporter,Emerging_Exporter
+Russia,2025-07,284.7,132.28,71.04,98.23,18.0,16.38,exporter,Emerging_Exporter
+Russia,2025-08,283.6,133.1,67.87,96.91,18.0,15.75,exporter,Emerging_Exporter
+Russia,2025-09,284.6,134.28,67.99,93.02,17.0,15.79,exporter,Emerging_Exporter
+Russia,2025-10,286.0,136.68,64.54,95.93,16.5,18.09,exporter,Emerging_Exporter
+Russia,2025-11,287.2,137.93,63.8,97.09,16.5,19.77,exporter,Emerging_Exporter
+Russia,2025-12,288.1,139.5,62.54,98.61,16.0,15.55,exporter,Emerging_Exporter
+Russia,2026-01,292.8,,66.6,99.64,16.0,16.18,exporter,Emerging_Exporter
+Russia,2026-02,294.9,,70.89,99.25,15.5,19.21,exporter,Emerging_Exporter
+Russia,2026-03,,,103.13,,15.0,25.6,exporter,Emerging_Exporter
+Russia,2026-04,,,118.43,,14.5,,exporter,Emerging_Exporter
+India,2023-01,"140,1","112,8","84,9","94,6","6,25","20,05",Importer,Emerging_Importer
+South Africa,2023-01,"143,4","98,5","84,9","86,2",7,"20,05",Importer,Emerging_Importer
+India,2023-02,"140,82","116,5","83,05","93,85","6,5","19,71",Importer,Emerging_Importer
+South Africa,2023-02,"144,98","97,8","83,05","85,1","7,25","19,71",Importer,Emerging_Importer
+India,2023-03,"141,33","113,6","79,89","94,1","6,5","20,07",Importer,Emerging_Importer
+South Africa,2023-03,"146,5","98,2","79,89","84,3","7,25","20,07",Importer,Emerging_Importer
+India,2023-04,"141,52","121,4","83,97","94,3","6,5","17,27",Importer,Emerging_Importer
+South Africa,2023-04,"147,3","99,1","83,97",85,"7,25","17,27",Importer,Emerging_Importer
+India,2023-05,"142,14","119,7","76,11",94,"6,5","15,89",Importer,Emerging_Importer
+South Africa,2023-05,"147,8","99,6","76,11","83,6","8,25","15,89",Importer,Emerging_Importer
+India,2023-06,"143,07","121,9",75,"93,8","6,5","13,79",Importer,Emerging_Importer
+South Africa,2023-06,"148,25","100,2",75,"83,9","8,25","13,79",Importer,Emerging_Importer
+India,2023-07,145,"122,5","81,65","93,6","6,5","13,9",Importer,Emerging_Importer
+South Africa,2023-07,"148,9","100,8","81,65","84,2","8,25","13,9",Importer,Emerging_Importer
+India,2023-08,"145,55","125,8","86,19","93,1","6,5","15,96",Importer,Emerging_Importer
+South Africa,2023-08,"149,5","101,3","86,19","82,5","8,25","15,96",Importer,Emerging_Importer
+India,2023-09,"145,3","129,1","93,4","93,4","6,5","17,51",Importer,Emerging_Importer
+South Africa,2023-09,"150,1","100,6","93,4","83,1","8,25","17,51",Importer,Emerging_Importer
+India,2023-10,"144,96","126,3","90,37","93,2","6,5","19,8",Importer,Emerging_Importer
+South Africa,2023-10,"150,8","99,4","90,37","83,3","8,25","19,8",Importer,Emerging_Importer
+India,2023-11,"144,62","121,65","82,43","92,9","6,5","14,72",Importer,Emerging_Importer
+South Africa,2023-11,151,"99,8","82,43",84,"8,25","14,72",Importer,Emerging_Importer
+India,2023-12,"144,48","132,4","77,59","92,6","6,5","12,79",Importer,Emerging_Importer
+South Africa,2023-12,"151,3","100,5","77,59","84,4","8,25","12,79",Importer,Emerging_Importer
+India,2024-01,"145,67","131,62","79,79","92,3","6,5","13,3",Importer,Emerging_Importer
+South Africa,2024-01,"152,2","101,2","79,79","83,8","8,25","13,3",Importer,Emerging_Importer
+India,2024-02,"146,35","126,03","83,14","92,5","6,5","14,1",Importer,Emerging_Importer
+South Africa,2024-02,"153,4","100,3","83,14","83,2","8,25","14,1",Importer,Emerging_Importer
+India,2024-03,"147,18","135,46","86,28","92,1","6,5","13,62",Importer,Emerging_Importer
+South Africa,2024-03,"154,2","101,5","86,28","82,7","8,25","13,62",Importer,Emerging_Importer
+India,2024-04,"147,77","132,5","89,03","91,8","6,5","15,92",Importer,Emerging_Importer
+South Africa,2024-04,"154,9","102,1","89,03","81,5","8,25","15,92",Importer,Emerging_Importer
+India,2024-05,"148,27","135,9","83,68","91,6","6,5","12,92",Importer,Emerging_Importer
+South Africa,2024-05,"155,4","101,8","83,68","82,1","8,25","12,92",Importer,Emerging_Importer
+India,2024-06,"148,98","133,4","83,34","91,4","6,5","12,44",Importer,Emerging_Importer
+South Africa,2024-06,"155,9","102,5","83,34","83,3","8,25","12,44",Importer,Emerging_Importer
+India,2024-07,"150,2","133,8","84,32","91,2","6,5","14,84",Importer,Emerging_Importer
+South Africa,2024-07,"156,4",103,"84,32","84,1","8,25","14,84",Importer,Emerging_Importer
+India,2024-08,"150,88","136,6","79,87","90,8","6,5","15,85",Importer,Emerging_Importer
+South Africa,2024-08,"156,9","103,4","79,87","85,2","8,25","15,85",Importer,Emerging_Importer
+India,2024-09,"151,98","138,1","73,8","90,6","6,5","16,19",Importer,Emerging_Importer
+South Africa,2024-09,157,"102,8","73,8","86,3",8,"16,19",Importer,Emerging_Importer
+India,2024-10,"152,78","132,8","75,67","90,4","6,25",20,Importer,Emerging_Importer
+South Africa,2024-10,"157,5","101,9","75,67","85,9",8,20,Importer,Emerging_Importer
+India,2024-11,"153,08","137,5","73,42","89,8","6,25","14,62",Importer,Emerging_Importer
+South Africa,2024-11,"157,8","102,6","73,42","85,1","7,75","14,62",Importer,Emerging_Importer
+India,2024-12,"152,64","139,6","73,18","89,1",6,"18,37",Importer,Emerging_Importer
+South Africa,2024-12,"158,1","103,8","73,18","84,5","7,75","18,37",Importer,Emerging_Importer
+India,2025-01,"153,95","142,8","79,26","88,8",6,"17,44",Importer,Emerging_Importer
+South Africa,2025-01,"157,9","104,3","79,26","84,8","7,5","17,44",Importer,Emerging_Importer
+India,2025-02,"154,19","137,3","75,53","88,5","5,75","19,45",Importer,Emerging_Importer
+South Africa,2025-02,"158,3","103,5","75,53","83,6","7,5","19,45",Importer,Emerging_Importer
+India,2025-03,"154,5","143,2","71,98","89,3","5,75","22,28",Importer,Emerging_Importer
+South Africa,2025-03,159,"104,8","71,98","84,2","7,5","22,28",Importer,Emerging_Importer
+India,2025-04,"154,7",144,"66,5",89,"5,5","30,14",Importer,Emerging_Importer
+South Africa,2025-04,"159,5","105,2","66,5","83,8","7,5","30,14",Importer,Emerging_Importer
+India,2025-05,"153,85","138,27","63,95","89,4","5,5","22,05",Importer,Emerging_Importer
+South Africa,2025-05,"160,2","104,9","63,95","84,5","7,25","22,05",Importer,Emerging_Importer
+India,2025-06,"154,25","133,4","64,78","89,6","5,5","16,39",Importer,Emerging_Importer
+South Africa,2025-06,"160,6","105,5","64,78","85,2","7,25","16,39",Importer,Emerging_Importer
+India,2025-07,"154,8","136,85","67,15","89,8","5,5","15,23",Importer,Emerging_Importer
+South Africa,2025-07,"161,4","106,1","67,15","85,8",7,"15,23",Importer,Emerging_Importer
+India,2025-08,"155,1","138,2","67,87","89,5","5,5","17,5",Importer,Emerging_Importer
+South Africa,2025-08,"162,1","105,8","67,87","86,1",7,"17,5",Importer,Emerging_Importer
+India,2025-09,"155,65","138,6","70,2","89,7","5,5","16,88",Importer,Emerging_Importer
+South Africa,2025-09,"162,8","106,4","70,2","86,4",7,"16,88",Importer,Emerging_Importer
+India,2025-10,"155,9","134,62","71,85","88,33","5,5","18,2",Importer,Emerging_Importer
+South Africa,2025-10,"163,5","105,6","71,85","85,7",7,"18,2",Importer,Emerging_Importer
+India,2025-11,"155,4","139,3","73,1","88,22","5,5","14,9",Importer,Emerging_Importer
+South Africa,2025-11,"164,3","106,2","73,1","85,3","6,75","14,9",Importer,Emerging_Importer
+India,2025-12,"154,25","150,45","74,3","86,44","5,25","14,73",Importer,Emerging_Importer
+South Africa,2025-12,"165,1","107,1","74,3",85,"6,75","14,73",Importer,Emerging_Importer
+India,2026-01,"158,2","149,28","76,2","85,22","5,25","16,5",Importer,Emerging_Importer
+South Africa,2026-01,"165,92","107,8","76,2","84,6","6,75","16,5",Importer,Emerging_Importer
+India,2026-02,"158,56","142,7","75,5","84,68","5,25","17,8",Importer,Emerging_Importer
+South Africa,2026-02,"165,85","106,9","75,5","84,2","6,75","17,8",Importer,Emerging_Importer
